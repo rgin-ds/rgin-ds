@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @rgin-ds
+
+
 I'm a curious person interested in deploying Machine Learning models to draw business and social insights from self-scraped data. 
 On top of working with busyQA as their database QA analyst/data scientist, I am also busy with a number of NLP projects related to social media and the 2020 Election.
 
